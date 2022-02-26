@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="33069dfa-e62e-482a-a995-306a752f9725"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="FirstT">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="8f29a321-cbce-43fa-ac4e-856c1815c132">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="42729dbb-8f40-498b-a59b-8db7d6685549"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='chrome']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="122fb909-0d00-49f3-990e-1170ceb8190f"
+	name="TaskRonwellRepo"
+	relativepath="TaskRonwellRepo.rxrep">
+		<codegen
+		classname="TaskRpnwellRepo"
+		namespace="FirstT">
+		</codegen>
+		<rootfolder
+		id="f6b6ea51-1964-4170-866f-3e59844bbb33"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

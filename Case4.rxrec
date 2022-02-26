@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="1f4230bd-e5dd-4b59-b636-8b98ca7b622e"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Case4"
+	namespace="FirstT">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="c30e1b58-ffcd-4801-aa6c-10de7aa37788"
+	name="FirstTRepository"
+	relativepath="FirstTRepository.rxrep">
+		<codegen
+		classname="FirstTRepository"
+		namespace="FirstT">
+		</codegen>
+		<rootfolder
+		id="0d70b0b4-96a8-43f6-97cb-41181f7118a4"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<references>
+	</references>
+</recordtable>

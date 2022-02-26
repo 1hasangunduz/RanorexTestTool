@@ -1,0 +1,19 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="CaseFour.rxrec" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="FirstT.rxtst" />
+    <Element value="Recording2.rxrec" />
+    <Element value="Recording3.rxrec" />
+    <Element value="Recording4.rxrec" />
+    <Element value="Recording5.rxrec" />
+    <Element value="Case2.rxrec" />
+    <Element value="Case1.rxrec" />
+    <Element value="CaseFour.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections" />
+  </Properties>
+</Properties>

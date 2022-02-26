@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="1f4230bd-e5dd-4b59-b636-8b98ca7b622e"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Case4"
+	namespace="FirstT">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="122fb909-0d00-49f3-990e-1170ceb8190f"
+	name="FirstTRepository"
+	relativepath="..\..\..\..\..\Desktop\FirstTRepository.rxrep">
+		<codegen
+		classname="FirstTRepository"
+		namespace="FirstT">
+		</codegen>
+		<rootfolder
+		id="f6b6ea51-1964-4170-866f-3e59844bbb33"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Case4.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

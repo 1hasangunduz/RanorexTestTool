@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="10.1">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroups
+			id="b579b8e6-3afb-4094-b36b-f7b3d8b495b8"
+			name="TaskRonwell">
+			</modulegroups>
+			<modulegroupdef
+			id="e92112fe-73a2-4604-b24a-6184859c31a1"
+			name="ModuleGroup">
+			</modulegroupdef>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="b579b8e6-3afb-4094-b36b-f7b3d8b495b8"
+			name="TaskRonwell">
+				<modulegroupdef
+				id="e92112fe-73a2-4604-b24a-6184859c31a1"
+				name="ModuleGroup">
+				</modulegroupdef>
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
+</modulegroupdoc>
